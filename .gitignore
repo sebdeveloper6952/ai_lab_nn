@@ -1,0 +1,10 @@
+.DS_Store
+bin/
+__pycache__/
+etc/
+.ipynb_checkpoints/
+include/
+lib/
+fashion-mnist/
+share/
+pyvenv.cfg
